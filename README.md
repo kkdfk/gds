@@ -1,7 +1,13 @@
-cd путь_к_папке
-mkdir my_website
-cd my_website
-git init
-git commit -m "Первый коммит: добавлены файлы сайта"
-git status
-git log
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мой сайт</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Добро пожаловать на мой сайт!</h1>
+    <script src="script.js"></script>
+</body>
+</html>
