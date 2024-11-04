@@ -8,6 +8,5 @@
 </head>
 <body>
     <h1>Добро пожаловать на мой сайт!</h1>
-    <script src="https://github.com/kkdfk/gds/blob/main/cf39bf0b1c38f0b6003dca5ad506fde4.jpeg"></script>
 </body>
 </html>
